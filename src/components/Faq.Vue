@@ -144,7 +144,7 @@
 
 <script>
 export default {
-    name : "Prices"
+    name : "Faq"
 }
 </script>
 
