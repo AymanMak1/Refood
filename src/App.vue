@@ -8,5 +8,5 @@ import Header from './components/Header.vue'
 </template>
 
 <style>
-    @import './assets/css/style.css';
+   
 </style>
