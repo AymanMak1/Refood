@@ -1,6 +1,6 @@
 import Home from '../views/Home.vue'
-import NotFound from '../views/NotFound.vue'
-import Signin from '../views/Signin.vue'
+import NotFound404 from '../views/NotFound404.vue'
+import Login from '../views/Login.vue'
 import Signup from '../views/Signup.vue'
 
 import {
@@ -17,8 +17,8 @@ const routes = [
             name : 'home'
         },
         {
-            path : '/Signin',
-            component: Signin, 
+            path : '/Login',
+            component: Login, 
             name : 'signin'
         },
         {
@@ -28,7 +28,7 @@ const routes = [
         },
         {
             path: "/:catchAll(.*)",
-            component: NotFound,
+            component: NotFound404,
           }
 ]
 

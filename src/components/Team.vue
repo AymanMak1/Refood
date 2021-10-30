@@ -21,8 +21,8 @@
                                 <img src="../assets/img/avatar/avatar-1.png" alt="">
                                 <!-- Team Overlay -->
                                 <div class="team-overlay">
-                                    <h4 class="team-name text-white">Junaid Hasan</h4>
-                                    <h6 class="team-post text-white mt-2 mb-3">Founder &amp; CEO</h6>
+                                    <h4 class="team-name text-white">Yizhi</h4>
+                                    <h6 class="team-post text-white mt-2 mb-3">Database Administrator</h6>
                                     <!-- Team Icons -->
                                     <div class="team-icons">
                                         <a class="p-2" href="#"><i class="fab fa-facebook-f"></i></a>
@@ -42,8 +42,8 @@
                                 <img src="../assets/img/avatar/avatar-2.png" alt="">
                                 <!-- Team Overlay -->
                                 <div class="team-overlay">
-                                    <h4 class="team-name text-white">Jassica William</h4>
-                                    <h6 class="team-post text-white mt-2 mb-3">Co-Founder</h6>
+                                    <h4 class="team-name text-white">Ayman Makhoukhi</h4>
+                                    <h6 class="team-post text-white mt-2 mb-3">FrontEnd Dev / UI UX Designer</h6>
                                     <!-- Team Icons -->
                                     <div class="team-icons">
                                         <a class="p-2" href="#"><i class="fab fa-facebook-f"></i></a>
@@ -63,8 +63,8 @@
                                 <img src="../assets/img/avatar/avatar-3.png" alt="">
                                 <!-- Team Overlay -->
                                 <div class="team-overlay">
-                                    <h4 class="team-name text-white">Md. Arham</h4>
-                                    <h6 class="team-post text-white mt-2 mb-3">Web Developer</h6>
+                                    <h4 class="team-name text-white">Luqman</h4>
+                                    <h6 class="team-post text-white mt-2 mb-3">Frontend Dev</h6>
                                     <!-- Team Icons -->
                                     <div class="team-icons">
                                         <a class="p-2" href="#"><i class="fab fa-facebook-f"></i></a>
@@ -81,7 +81,7 @@
                         <div class="single-team text-center overflow-hidden m-2 m-lg-0">
                             <!-- Team Thumb -->
                             <div class="team-thumb d-inline-block position-relative overflow-hidden">
-                                <img src="../assets/img/avatar/avatar-1.png" alt="">
+                                <img src="../assets/img/avatar/avatar-4.png" alt="">
                                 <!-- Team Overlay -->
                                 <div class="team-overlay">
                                     <h4 class="team-name text-white">Md. Arham</h4>
@@ -102,7 +102,7 @@
                         <div class="single-team text-center overflow-hidden m-2 m-lg-0">
                             <!-- Team Thumb -->
                             <div class="team-thumb d-inline-block position-relative overflow-hidden">
-                                <img src="../assets/img/avatar/avatar-4.png" alt="">
+                                <img src="../assets/img/avatar/avatar-5.png" alt="">
                                 <!-- Team Overlay -->
                                 <div class="team-overlay">
                                     <h4 class="team-name text-white">Md. Arham</h4>

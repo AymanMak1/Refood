@@ -18,14 +18,13 @@
                     <nav>
                         <ul class="navbar-nav" id="navbar-nav">
                             <li class="nav-item">
-                                <a class="nav-link" href="javascript:;" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                    Home
-                                </a>
+                                <router-link to="/" class="nav-link" href="javascript:;" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Home</router-link>
+
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link scroll" href="#features">Features</a>
                             </li>
-                 <li class="nav-item dropdown">
+                       <li class="nav-item dropdown">
                                 <a class="nav-link dropdown-toggle" href="javascript:;" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                     More
                                 </a>
@@ -47,18 +46,15 @@
                                             <li>
                                                 <a class="dropdown-item" href="coming-soon.html">Coming Soon</a>
                                             </li>
-                                            <li>
-                                                <a class="dropdown-item" href="404.html">404</a>
-                                            </li>
                                         </ul>
                                     </li>
-                                    <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="javascript:;">Accounts<span class="badge badge-pill badge-warning ml-2">New</span></a>
+                                    <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="javascript:;">Accounts</a>
                                         <ul class="dropdown-menu">
                                             <li>
-                                                <a class="dropdown-item" href="login.html">Login</a>
+                                                 <router-link to="/Login" class="dropdown-item">Login</router-link>
                                             </li>
                                             <li>
-                                                <a class="dropdown-item" href="signup.html">Signup</a>
+                                                <router-link to="/Signup" class="dropdown-item">Signup</router-link>
                                             </li>
                                             <li>
                                                 <a class="dropdown-item" href="forgot.html">Reset Password</a>
@@ -67,6 +63,9 @@
                                     </li>
                                     <li>
                                         <a class="dropdown-item" href="reviews.html">Reviews</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item" href="#BusinessValues">Refood Values</a>
                                     </li>
                                     <li>
                                         <a class="dropdown-item" href="faq.html">FAQ</a>

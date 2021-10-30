@@ -1,5 +1,5 @@
 <template>
-          <!-- ***** Error Area Start ***** -->
+            <!-- ***** Error Area Start ***** -->
         <section id="home" class="section welcome-area inner-area bg-overlay h-100vh overflow-hidden">
             <div class="container h-100">
                 <div class="row align-items-center justify-content-center h-100">
@@ -22,8 +22,6 @@ export default {
 }
 </script>
 
-<style scoped>
-html{
-    overflow:hidden;
-}
+<style>
+
 </style>

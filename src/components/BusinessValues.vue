@@ -1,6 +1,6 @@
 <template>
           <!-- ***** Discover Area Start ***** -->
-        <section class="section discover-area bg-gray overflow-hidden ptb_100">
+        <section id="BusinessValues" class="section discover-area bg-gray overflow-hidden ptb_100">
             <div class="container">
                 <div class="row align-items-center justify-content-between">
                     <div class="col-12 col-lg-6 order-2 order-lg-1"  data-aos="fade-right" data-aos-duration="1000"  data-aos-delay="300">
