@@ -27,7 +27,7 @@ import BusinessValues from '../components/BusinessValues.vue'
 import Work from '../components/Work.vue'
 import Review from '../components/Review.vue'
 import Partners from '../components/Partners.vue'
-import Faq from '../components/Faq.vue'
+import Questions from '../components/Questions.vue'
 import Team from '../components/Team.vue'
 import Accessibility from '../components/Accessibility.vue'
 import Subscribe from '../components/Subscribe.vue'
@@ -46,7 +46,7 @@ export default {
         Work,
         Review,
         Partners,
-        Faq,
+        Questions,
         Team,
         Accessibility,
         Subscribe,

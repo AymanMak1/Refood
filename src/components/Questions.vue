@@ -1,5 +1,4 @@
 <template>
-  
         <!-- ***** Price Plan Area Start ***** -->
         <section id="pricing" class="section price-plan-area bg-gray overflow-hidden ptb_100">
             <div class="container">
@@ -144,7 +143,7 @@
 
 <script>
 export default {
-    name: "Faq"
+   name: "Questions"
 }
 </script>
 

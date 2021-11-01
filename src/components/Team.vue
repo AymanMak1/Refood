@@ -42,8 +42,8 @@
                                 <img src="../assets/img/avatar/avatar-2.png" alt="">
                                 <!-- Team Overlay -->
                                 <div class="team-overlay">
-                                    <h4 class="team-name text-white">Ayman Makhoukhi</h4>
-                                    <h6 class="team-post text-white mt-2 mb-3">FrontEnd Dev / UI UX Designer</h6>
+                                    <h4 class="team-name text-white">Ayman</h4>
+                                    <h6 class="team-post text-white mt-2 mb-3">Frontend Dev <br> UI UX Designer</h6>
                                     <!-- Team Icons -->
                                     <div class="team-icons">
                                         <a class="p-2" href="#"><i class="fab fa-facebook-f"></i></a>
@@ -84,8 +84,8 @@
                                 <img src="../assets/img/avatar/avatar-4.png" alt="">
                                 <!-- Team Overlay -->
                                 <div class="team-overlay">
-                                    <h4 class="team-name text-white">Md. Arham</h4>
-                                    <h6 class="team-post text-white mt-2 mb-3">Web Developer</h6>
+                                    <h4 class="team-name text-white">Chaimae</h4>
+                                    <h6 class="team-post text-white mt-2 mb-3">Backend Dev</h6>
                                     <!-- Team Icons -->
                                     <div class="team-icons">
                                         <a class="p-2" href="#"><i class="fab fa-facebook-f"></i></a>
@@ -105,8 +105,8 @@
                                 <img src="../assets/img/avatar/avatar-5.png" alt="">
                                 <!-- Team Overlay -->
                                 <div class="team-overlay">
-                                    <h4 class="team-name text-white">Md. Arham</h4>
-                                    <h6 class="team-post text-white mt-2 mb-3">Web Developer</h6>
+                                    <h4 class="team-name text-white">Donia</h4>
+                                    <h6 class="team-post text-white mt-2 mb-3">CEO & Backend</h6>
                                     <!-- Team Icons -->
                                     <div class="team-icons">
                                         <a class="p-2" href="#"><i class="fab fa-facebook-f"></i></a>
