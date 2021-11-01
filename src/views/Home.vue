@@ -7,7 +7,7 @@
     <Work />
     <Review />
     <Partners />
-    <Branding />
+    <Questions />
     <Faq />
     <Team />
     <Accessibility />
