@@ -7,6 +7,7 @@
     <Work />
     <Review />
     <Partners />
+    <Branding />
     <Questions />
     <Faq />
     <Team />
@@ -46,6 +47,7 @@ export default {
         Work,
         Review,
         Partners,
+        Branding,
         Questions,
         Team,
         Accessibility,

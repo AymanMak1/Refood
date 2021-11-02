@@ -15,7 +15,6 @@
 // :: 13.0 APP SCREENSHOTS ACTIVE CODE
 // :: 14.0 CONTACT FORM ACTIVE CODE
 
-
 (function ($) {
     'use strict';
 
