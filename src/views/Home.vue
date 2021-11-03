@@ -19,7 +19,6 @@
 
 <script>
 /* Components */
-import $ from 'jquery'
 import Hero from '../components/Hero/Hero.vue'
 import Counter from '../components/Counter.vue'
 import ScrollUp from '../components/ScrollUp.vue'

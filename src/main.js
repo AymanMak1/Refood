@@ -10,6 +10,7 @@ import 'bootstrap/dist/js/bootstrap.min.js'
 import './assets/js/active.js'
 import './assets/js/plugins/plugins.min.js'
 */
+
 import AOS from 'aos'
 import 'aos/dist/aos.css'
 import AnimateCSS from 'animate.css';

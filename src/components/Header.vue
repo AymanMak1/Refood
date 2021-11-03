@@ -93,22 +93,24 @@
 
 
 <script>
+import navMenu from '../assets/js/custom/navMenu';
 
 export default{
     name: "Header",
     mounted(){
+        navMenu();
         /*$('.navbar-toggler').on('click', function () {
                 $('header').toggleClass('active');
                 $('body').toggleClass('canvas-open');
                 $('.navbar-toggler-icon').toggleClass('active');
         });*/
-        const activeScript = document.createElement("script");
+        /*const activeScript = document.createElement("script");
         activeScript.setAttribute(
             "src",
             "/src/assets/js/active.js"
         );
         activeScript.async = true;
-        document.head.appendChild(activeScript);
+        document.head.appendChild(activeScript);*/
     }
 }
 

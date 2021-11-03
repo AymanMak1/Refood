@@ -46,9 +46,15 @@
 </template>
 
 <script>
-export default {
+import counter from '../assets/js/custom/counterUp';
 
+export default{
+    name: "Counter",
+    mounted(){
+        counter()
+    }
 }
+
 </script>
 
 <style>
