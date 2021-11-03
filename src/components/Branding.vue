@@ -49,11 +49,15 @@
 </template>
 
 <script>
+import carousel from '../assets/js/custom/carouselBranding';
 
-export default {
-
-  
+export default{
+    name: "Branding",
+    mounted(){
+        carousel()
+    }
 }
+
 </script>
 
 <style>
