@@ -50,12 +50,12 @@
 
 <script>
 
-import carousel from '../assets/js/custom/carouselBranding';
+//import carousel from '../assets/js/custom/carouselBranding';
 
 export default{
     name: "Branding",
     mounted(){
-        carousel()
+        //carousel();
     }
 }
 

@@ -54,6 +54,7 @@ export default{
 
     },
     mounted(){
+        //counter();
         // window.addEventListener('scroll', counter)
     }
 }

@@ -1,10 +1,13 @@
-        // :: 9.0 COUNTERUP ACTIVE CODE
-    /*export default function counter(){
+//import $ from 'jquery'
+//import jQuery from 'jquery'
+// :: 9.0 COUNTERUP ACTIVE CODE
+export default function counter(){
         $('.counter').counterUp({
             delay: 10,
             time: 1000
         });
-    }*/
+}
+
 /*
 export default function counter(){
 

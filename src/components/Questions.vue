@@ -142,6 +142,9 @@
 </template>
 
 <script>
+import $ from 'jquery'
+import jQuery from 'jquery'
+import 'bootstrap/dist/js/bootstrap.min.js'
 export default {
    name: "Questions"
 }

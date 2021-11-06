@@ -1,3 +1,5 @@
+//import $ from 'jquery'
+//import jQuery from 'jquery'
 export default function carousel(){
     // :: 13.0 BRANDING SLIDER ACTIVE CODE
     $('.branding-slider.owl-carousel').owlCarousel({
