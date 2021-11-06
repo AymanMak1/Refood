@@ -7,7 +7,7 @@
                         <div class="counter-inner p-3 p-md-0">
                             <!-- Counter Item -->
                             <div class="counter-item d-inline-block mb-3">
-                                <span class="counter fw-7">33</span><span class="fw-7">%</span>
+                                <span class="counter fw-7" data-target="33">33</span><span class="fw-7">%</span>
                             </div>
                             <h5>Wasted food worldwide</h5>
                         </div>
@@ -16,7 +16,7 @@
                         <div class="counter-inner p-3 p-md-0">
                             <!-- Counter Item -->
                             <div class="counter-item d-inline-block mb-3">
-                                <span class="counter fw-7">8</span><span class="fw-7">%</span>
+                                <span class="counter fw-7" data-target="8">8</span><span class="fw-7">%</span>
                             </div>
                             <h5>Greenhouse Gas Emition</h5>
                         </div>
@@ -25,7 +25,7 @@
                         <div class="counter-inner p-3 p-md-0">
                             <!-- Counter Item -->
                             <div class="counter-item d-inline-block mb-3">
-                                <span class="counter fw-7">8.9</span><span class="fw-7">%</span>
+                                <span class="counter fw-7" data-target="9">9</span><span class="fw-7">%</span>
                             </div>
                             <h5>Undernourished People</h5>
                         </div>
@@ -34,7 +34,7 @@
                         <div class="counter-inner p-3 p-md-0">
                             <!-- Counter Item -->
                             <div class="counter-item d-inline-block mb-3">
-                                <span class="counter fw-7">690</span><span class="fw-7">M</span>
+                                <span class="counter fw-7" data-target="690">690</span><span class="fw-7">M</span>
                             </div>
                             <h5>of the population</h5>
                         </div>
@@ -46,12 +46,15 @@
 </template>
 
 <script>
-import counter from '../assets/js/custom/counterUp';
+//import counter from '../assets/js/custom/counterUp';
 
 export default{
     name: "Counter",
+    methods: {
+
+    },
     mounted(){
-        counter()
+        // window.addEventListener('scroll', counter)
     }
 }
 

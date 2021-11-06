@@ -38,7 +38,7 @@
                                     </div>
                                     <!-- Icon Text -->
                                     <div class="icon-text media-body align-self-center align-self-md-start">
-                                        <h3 class="mb-2">Live Chat</h3>
+                                        <h3 class="mb-2">Trust Worthy</h3>
                                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos.</p>
                                     </div>
                                 </div>

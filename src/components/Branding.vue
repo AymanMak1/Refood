@@ -49,6 +49,7 @@
 </template>
 
 <script>
+
 import carousel from '../assets/js/custom/carouselBranding';
 
 export default{

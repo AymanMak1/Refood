@@ -20,7 +20,7 @@
                             <div class="work-icon">
                                 <img class="avatar-md" src="../assets/img/icon/work/download.png" alt="">
                             </div>
-                            <h3 class="text-white py-3" >Install the App</h3>
+                            <h3 class="text-white py-3" >Visit the website</h3>
                             <p class="text-white">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius saepe, voluptates quis enim incidunt obcaecati?</p>
                         </div>
                     </div>
