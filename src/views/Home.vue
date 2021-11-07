@@ -17,6 +17,8 @@
 </template>
 
 <script>
+import $ from 'jquery'
+import jQuery from 'jquery'
 /* Components */
 import Hero from '../components/Hero/Hero.vue'
 import Counter from '../components/Counter.vue'

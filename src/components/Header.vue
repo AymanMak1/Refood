@@ -93,9 +93,9 @@
 
 
 <script>
-import $ from 'jquery'
-import jQuery from 'jquery'
-import 'bootstrap/dist/js/bootstrap.min.js'
+//import $ from 'jquery'
+//import jQuery from 'jquery'
+//import 'bootstrap/dist/js/bootstrap.min.js'
 import * as nav from '../assets/js/custom/navMenu';
 
 export default{

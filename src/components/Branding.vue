@@ -49,13 +49,15 @@
 </template>
 
 <script>
+import $ from 'jquery'
+import jQuery from 'jquery'
 
-//import carousel from '../assets/js/custom/carouselBranding';
+import carousel from '../assets/js/custom/carouselBranding';
 
 export default{
     name: "Branding",
     mounted(){
-        //carousel();
+        carousel();
     }
 }
 

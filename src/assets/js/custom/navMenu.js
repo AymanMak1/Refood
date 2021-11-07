@@ -1,6 +1,6 @@
-import $ from 'jquery'
-import jQuery from 'jquery'
-import 'bootstrap/dist/js/bootstrap.min.js'
+//import $ from 'jquery'
+//import jQuery from 'jquery'
+//import 'bootstrap/dist/js/bootstrap.min.js'
     // :: 2.0 NAVIGATION MENU ACTIVE CODE
     // dropdown for mobile
 

@@ -46,16 +46,16 @@
 </template>
 
 <script>
-//import counter from '../assets/js/custom/counterUp';
-import $ from 'jquery'
-import jQuery from 'jquery'
+import counter from '../assets/js/custom/counterUp';
+//import $ from 'jquery'
+//import jQuery from 'jquery'
 export default{
     name: "Counter",
     methods: {
 
     },
     mounted(){
-        //counter();
+        counter();
         // window.addEventListener('scroll', counter)
     }
 }
