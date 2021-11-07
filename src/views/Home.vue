@@ -9,7 +9,7 @@
     <Partners />
     <Branding />
     <Questions />
-    <Faq />
+    
     <Team />
     <Accessibility />
     <Subscribe />

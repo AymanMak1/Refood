@@ -3,23 +3,18 @@ import jQuery from 'jquery'
 import 'bootstrap/dist/js/bootstrap.min.js'
     // :: 2.0 NAVIGATION MENU ACTIVE CODE
     // dropdown for mobile
-    $(document).ready(function () {
-        checkWidth(true);
-        $(window).resize(function () {
-            checkWidth(false);
-        });
-    });
 
-    function checkWidth(init) {
+    export function checkWidth(init) {
         // If browser resized, check width again 
         if ($(window).width() <= 991) {
             $('.dropdown-submenu a').on("click", function (e) {
+                console.log("check width function")
                 $(this).next('ul').toggle();
                 e.stopPropagation();
             });
         }
     }
-    export default function navMenu() {
+    export function navMenu() {
 
         // MAIN MENU TOGGLER ICON (MOBILE SITE ONLY)
         $('[data-toggle="navbarToggler"]').click(function () {

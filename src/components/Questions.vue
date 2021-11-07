@@ -31,7 +31,7 @@
                                             <!-- Card Header -->
                                             <div class="card-header bg-white">
                                                 <h2 class="mb-0">
-                                                    <button class="btn p-2" type="button" data-toggle="collapse" data-target="#collapseOne">
+                                                    <button class="btn p-2" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne">
                                                         How to create an account ?
                                                     </button>
                                                 </h2>
@@ -48,7 +48,7 @@
                                             <!-- Card Header -->
                                             <div class="card-header bg-white">
                                                 <h2 class="mb-0">
-                                                    <button class="btn collapsed p-2" type="button" data-toggle="collapse" data-target="#collapseTwo">
+                                                    <button class="btn collapsed p-2" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo">
                                                         Can I get support from the Author?
                                                     </button>
                                                 </h2>
@@ -65,7 +65,7 @@
                                             <!-- Card Header -->
                                             <div class="card-header bg-white">
                                                 <h2 class="mb-0">
-                                                    <button class="btn collapsed p-2" type="button" data-toggle="collapse" data-target="#collapseThree">
+                                                    <button class="btn collapsed p-2" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree">
                                                         Contact form isn't working?
                                                     </button>
                                                 </h2>
@@ -84,7 +84,7 @@
                                             <!-- Card Header -->
                                             <div class="card-header bg-white">
                                                 <h2 class="mb-0">
-                                                    <button class="btn collapsed p-2" type="button" data-toggle="collapse" data-target="#collapseFour">
+                                                    <button class="btn collapsed p-2" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour">
                                                         What about the events?
                                                     </button>
                                                 </h2>
@@ -101,7 +101,7 @@
                                             <!-- Card Header -->
                                             <div class="card-header bg-white">
                                                 <h2 class="mb-0">
-                                                    <button class="btn p-2" type="button" data-toggle="collapse" data-target="#collapseFive">
+                                                    <button class="btn p-2" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive">
                                                         How can I get product update?
                                                     </button>
                                                 </h2>
@@ -118,7 +118,7 @@
                                             <!-- Card Header -->
                                             <div class="card-header bg-white">
                                                 <h2 class="mb-0">
-                                                    <button class="btn collapsed p-2" type="button" data-toggle="collapse" data-target="#collapseSix">
+                                                    <button class="btn collapsed p-2 accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix">
                                                         Is this template support rtl?
                                                     </button>
                                                 </h2>
@@ -142,9 +142,9 @@
 </template>
 
 <script>
-import $ from 'jquery'
-import jQuery from 'jquery'
-import 'bootstrap/dist/js/bootstrap.min.js'
+//import $ from 'jquery'
+//import jQuery from 'jquery'
+//import 'bootstrap/dist/js/bootstrap.min.js'
 export default {
    name: "Questions"
 }

@@ -1,5 +1,4 @@
-//import $ from 'jquery'
-//import jQuery from 'jquery'
+
 // :: 9.0 COUNTERUP ACTIVE CODE
 export default function counter(){
         $('.counter').counterUp({

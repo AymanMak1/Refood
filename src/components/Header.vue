@@ -93,13 +93,22 @@
 
 
 <script>
-
-import navMenu from '../assets/js/custom/navMenu';
+import $ from 'jquery'
+import jQuery from 'jquery'
+import 'bootstrap/dist/js/bootstrap.min.js'
+import * as nav from '../assets/js/custom/navMenu';
 
 export default{
     name: "Header",
     mounted(){
-        navMenu();
+
+        nav.checkWidth(true);
+        $(window).resize(function () {
+            nav.checkWidth(false);
+        });
+        nav.checkWidth();
+        nav.navMenu();
+
         /*$('.navbar-toggler').on('click', function () {
                 $('header').toggleClass('active');
                 $('body').toggleClass('canvas-open');
