@@ -49,8 +49,8 @@
 </template>
 
 <script>
-import $ from 'jquery'
-import jQuery from 'jquery'
+//import $ from 'jquery'
+//import jQuery from 'jquery'
 
 import carousel from '../assets/js/custom/carouselBranding';
 

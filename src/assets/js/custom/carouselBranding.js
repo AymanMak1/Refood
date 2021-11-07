@@ -1,5 +1,5 @@
-import $ from 'jquery'
-import jQuery from 'jquery'
+//import $ from 'jquery'
+//import jQuery from 'jquery'
 //import 'owl.carousel/src/js/owl.carousel.js';
 //import 'owl.carousel';
 export default function carousel(){
