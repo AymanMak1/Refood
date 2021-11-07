@@ -1,6 +1,6 @@
 <template>
-        <!-- ***** Price Plan Area Start ***** -->
-        <section id="pricing" class="section price-plan-area bg-gray overflow-hidden ptb_100">
+        <!-- ***** Faq Area Start ***** -->
+        <section id="faq" class="section price-plan-area bg-gray overflow-hidden ptb_100">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-12 col-md-10 col-lg-8">
@@ -36,7 +36,7 @@
                                                     </button>
                                                 </h2>
                                             </div>
-                                            <div id="collapseOne" class="collapse show" data-parent="#apolo-accordion">
+                                            <div id="collapseOne" class="collapse show" data-bs-parent="#apolo-accordion">
                                                 <!-- Card Body -->
                                                 <div class="card-body">
                                                     Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa.
@@ -53,7 +53,7 @@
                                                     </button>
                                                 </h2>
                                             </div>
-                                            <div id="collapseTwo" class="collapse" data-parent="#apolo-accordion">
+                                            <div id="collapseTwo" class="collapse" data-bs-parent="#apolo-accordion">
                                                 <!-- Card Body -->
                                                 <div class="card-body">
                                                     Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa.
@@ -70,7 +70,7 @@
                                                     </button>
                                                 </h2>
                                             </div>
-                                            <div id="collapseThree" class="collapse" data-parent="#apolo-accordion">
+                                            <div id="collapseThree" class="collapse" data-bs-parent="#apolo-accordion">
                                                 <!-- Card Body -->
                                                 <div class="card-body">
                                                     Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa.
@@ -89,7 +89,7 @@
                                                     </button>
                                                 </h2>
                                             </div>
-                                            <div id="collapseFour" class="collapse" data-parent="#apolo-accordion">
+                                            <div id="collapseFour" class="collapse" data-bs-parent="#apolo-accordion">
                                                 <!-- Card Body -->
                                                 <div class="card-body">
                                                     Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa.
@@ -106,30 +106,35 @@
                                                     </button>
                                                 </h2>
                                             </div>
-                                            <div id="collapseFive" class="collapse show" data-parent="#apolo-accordion">
+                                            <div id="collapseFive" class="collapse show" data-bs-parent="#apolo-accordion">
                                                 <!-- Card Body -->
                                                 <div class="card-body">
                                                     Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa.
                                                 </div>
                                             </div>
                                         </div>
+
+
+
                                         <!-- Single Accordion Item -->
-                                        <div class="card my-2">
+                                        <div class="card my-2 accordion-item">
                                             <!-- Card Header -->
                                             <div class="card-header bg-white">
-                                                <h2 class="mb-0">
-                                                    <button class="btn collapsed p-2 accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix">
+                                                <h2 class="mb-0 accordion-header" id="headingSix">
+                                                    <button class="btn p-2" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="true" aria-controls="collapseSix">
                                                         Is this template support rtl?
                                                     </button>
                                                 </h2>
                                             </div>
-                                            <div id="collapseSix" class="collapse" data-parent="#apolo-accordion">
+                                            <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-bs-parent="#apolo-accordion">
                                                 <!-- Card Body -->
-                                                <div class="card-body">
-                                                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa.
+                                                <div class="card-body accordion-body">
+                                                    Anim pariatur clic`he reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa.
                                                 </div>
                                             </div>
                                         </div>
+
+
                                     </div>
                                 </div>
                             </div>
@@ -139,12 +144,12 @@
             </div>
         </section>
         <!-- ***** Price Plan Area End ***** -->
+
+        
 </template>
 
-<script>
-//import $ from 'jquery'
-//import jQuery from 'jquery'
-//import 'bootstrap/dist/js/bootstrap.min.js'
+<script scoped>
+
 export default {
    name: "Questions"
 }
