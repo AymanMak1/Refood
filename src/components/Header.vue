@@ -24,57 +24,46 @@
                             <li class="nav-item">
                                 <a class="nav-link scroll" href="#features">Features</a>
                             </li>
+                                        
                        <li class="nav-item dropdown">
                                 <a class="nav-link dropdown-toggle" href="javascript:;" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                    More
+                                    Accounts
                                 </a>
-                                <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                                    <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="javascript:;">Inner Pages<span class="badge badge-pill badge-warning ml-2">New</span></a>
-                                        <ul class="dropdown-menu">
-                                            <li>
-                                                <a class="dropdown-item" href="pricing.html">Pricing</a>
-                                            </li>
-                                            <li>
-                                                <a class="dropdown-item" href="download.html">Download</a>
-                                            </li>
-                                            <li>
-                                                <a class="dropdown-item" href="newsletter.html">Newsletter</a>
-                                            </li>
-                                            <li>
-                                                <a class="dropdown-item" href="thank-you.html">Thank you</a>
-                                            </li>
-                                            <li>
-                                                <a class="dropdown-item" href="coming-soon.html">Coming Soon</a>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                    <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="javascript:;">Accounts</a>
-                                        <ul class="dropdown-menu">
-                                            <li>
-                                                 <router-link to="/Login" class="dropdown-item">Login</router-link>
-                                            </li>
-                                            <li>
-                                                <router-link to="/Signup" class="dropdown-item">Signup</router-link>
-                                            </li>
-                                            <li>
-                                                <a class="dropdown-item" href="forgot.html">Reset Password</a>
-                                            </li>
-                                        </ul>
+                                <ul class="dropdown-menu">
+                                    <li>
+                                        <router-link to="/Login" class="dropdown-item">Login</router-link>
+                                     </li>
+                                    <li>
+                                        <router-link to="/Signup" class="dropdown-item">Signup</router-link>
                                     </li>
                                     <li>
-                                        <a class="dropdown-item" href="reviews.html">Reviews</a>
+                                        <a class="dropdown-item" href="">Reset Password</a>
                                     </li>
+                                </ul>
+                        </li>
+
+                       <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="javascript:;" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    Inner Pages
+                                </a>
+                                <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                                     <li>
                                         <a class="dropdown-item" href="#BusinessValues">Refood Values</a>
                                     </li>
                                     <li>
-                                        <a class="dropdown-item" href="faq.html">FAQ</a>
+                                        <a class="dropdown-item" href="#UserGuide">User Guide</a>
                                     </li>
                                     <li>
-                                        <a class="dropdown-item" href="contact.html">Contact</a>
+                                        <a class="dropdown-item" href="#reviews">Reviews</a>
                                     </li>
                                     <li>
-                                        <a class="dropdown-item disabled" href="#">More Coming Soon</a>
+                                        <a class="dropdown-item" href="#Partners">Partners</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item" href="#faq">FAQ</a>
+                                    </li>
+                                    <li>
+                                        <a class="dropdown-item" href="">Team Experts</a>
                                     </li>
                                 </ul>
                             </li>

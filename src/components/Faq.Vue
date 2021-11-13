@@ -1,7 +1,7 @@
 <template>
   
         <!-- ***** Price Plan Area Start ***** -->
-        <section id="pricing" class="section price-plan-area bg-gray overflow-hidden ptb_100">
+        <section id="faq" class="section price-plan-area bg-gray overflow-hidden ptb_100">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-12 col-md-10 col-lg-8">

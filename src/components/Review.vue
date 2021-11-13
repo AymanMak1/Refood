@@ -1,6 +1,6 @@
 <template>
         <!-- ***** Review Area Start ***** -->
-        <section id="review" class="review-area ptb_100">
+        <section id="reviews" class="review-area ptb_100">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-12 col-md-10 col-lg-8">

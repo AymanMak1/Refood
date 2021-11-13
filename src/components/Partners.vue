@@ -1,6 +1,6 @@
 <template>
     <!-- ***** Partners Area Start ***** -->
-        <section id="features" class="section features-area bg-gray overflow-hidden ptb_100">
+        <section id="Partners" class="section features-area bg-gray overflow-hidden ptb_100">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-12 col-md-10 col-lg-8">

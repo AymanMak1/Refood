@@ -1,4 +1,5 @@
 import Home from '../views/Home.vue'
+import Features from '../components/Features.vue'   
 import NotFound404 from '../views/NotFound404.vue'
 import Login from '../views/Login.vue'
 import Signup from '../views/Signup.vue'
@@ -15,6 +16,11 @@ const routes = [
             path : '/',
             component: Home, 
             name : 'home'
+        },
+        {
+            path : '/Features',
+            component: Features, 
+            name : 'features'
         },
         {
             path : '/Login',
