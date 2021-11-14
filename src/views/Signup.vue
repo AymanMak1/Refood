@@ -53,9 +53,9 @@ export default {
     },
     data(){
         return{
-            isProvider:true,
+            isProvider:false,
             isOrganisation:false,
-            isVolunteer:false,
+            isVolunteer:true,
             isNotActive : '#73c4ba !important',
             isActive : 'var(--primary-color-2) !important'
         }
