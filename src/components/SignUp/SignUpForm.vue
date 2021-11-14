@@ -110,5 +110,10 @@ export default {
 </script>
 
 <style scoped>
-
+::-webkit-file-upload-button {
+   display: none;
+}
+input[type="file"]{
+    padding-top:15px;
+}
 </style>
