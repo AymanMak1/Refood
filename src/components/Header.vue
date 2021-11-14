@@ -2,10 +2,10 @@
             <!-- ***** Header Start ***** -->
         <header class="navbar navbar-sticky navbar-expand-lg navbar-dark">
             <div class="container position-relative">
-                <a class="navbar-brand" href="index.html">
+                <router-link to="/" class="navbar-brand">
                     <img class="navbar-brand-regular" src="../assets/img/logo/logo-white.png" alt="brand-logo">
                     <img class="navbar-brand-sticky" src="../assets/img/logo/logo.png" alt="sticky brand-logo">
-                </a>
+                </router-link>
                 <button class="navbar-toggler d-lg-none" type="button" data-toggle="navbarToggler" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>

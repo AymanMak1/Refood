@@ -1,63 +1,33 @@
 <template>
     <!-- ***** Welcome Area Start ***** -->
-        <section id="home" class="section welcome-area bg-overlay d-flex align-items-center">
+        <section id="SignUp" class="section welcome-area bg-overlay d-flex align-items-center">
             <div class="container">
                 <div class="row align-items-center justify-content-center">
-                    <!-- Welcome Intro Start -->
-                    <div class="col-12 col-lg-7">
-                        <div class="welcome-intro">
-                            <h1 class="text-white">Create an account!</h1>
-                            <p class="text-white my-4">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum.</p>
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-8 col-lg-5">
+                    <div class="col-12 col-md-8 col-lg-8 mt-5">
                         <!-- Contact Box -->
                         <div class="contact-box bg-white text-center rounded p-4 p-sm-5 mt-5 mt-lg-0 shadow-lg">
-                            <!-- Contact Form -->
-                            <form id="contact-form">
-                                <div class="contact-top">
-                                    <h3 class="contact-title">Sign Up</h3>
+                            <div class="contact-top">
+                                    <h3 class="contact-title">Sign Up as</h3> <br>
+                                    <div class="usersBtns">
+                                            <button type="button" @click="showProviderForm()" class="btn"
+                                            v-bind:style="[ isProvider == false ? {'background-color': isNotActive} : {'background-color': isActive} ]">Provider</button>
+                                            <button type="button" @click="showOrganisationForm()" class="btn" 
+                                            v-bind:style="[ isOrganisation == false ? {'background-color': isNotActive} : {'background-color': isActive} ]"
+                                            >Organisation</button>
+                                            <button type="button" @click="showVolunteerForm()" class="btn"
+                                            v-bind:style="[ isVolunteer == false ? {'background-color': isNotActive} : {'background-color': isActive} ]">Volunteer</button>
+                                    </div>
                                     <h5 class="text-secondary fw-3 py-3">Fill all fields so we can get some info about you. We'll never send you spam</h5>
-                                </div>
-                                <div class="row">
-                                    <div class="col-12">
-                                        <div class="form-group">
-                                            <div class="input-group">
-                                              <div class="input-group-prepend">
-                                                <span class="input-group-text"><i class="fas fa-user-alt"></i></span>
-                                              </div>
-                                              <input type="text" class="form-control" name="name" placeholder="Name" required="required">
-                                            </div>
-                                        </div>
-                                        <div class="form-group">
-                                            <div class="input-group">
-                                              <div class="input-group-prepend">
-                                                <span class="input-group-text"><i class="fas fa-envelope-open"></i></span>
-                                              </div>
-                                              <input type="email" class="form-control" name="email" placeholder="Email" required="required">
-                                            </div>
-                                        </div>
-                                        <div class="form-group">
-                                            <div class="input-group">
-                                              <div class="input-group-prepend">
-                                                <span class="input-group-text"><i class="fas fa-unlock-alt"></i></span>
-                                              </div>
-                                              <input type="password" class="form-control" name="password" placeholder="Password" required="required">
-                                            </div>
-                                        </div>
-                                        <div class="form-group form-check">
-                                            <input type="checkbox" class="form-check-input" id="exampleCheck1">
-                                            <label class="form-check-label contact-bottom" for="exampleCheck1"><span class="d-inline-block mt-3">By signing up, you accept our <a href="#">Terms</a> &amp; <a href="#">Privacy Policy</a></span></label>
-                                          </div>
-                                    </div>
-                                    <div class="col-12">
-                                        <button class="btn btn-bordered w-100 mt-3" type="submit">Sign Up</button>
-                                    </div>
-                                    <div class="col-12">
-                                        <span class="d-block pt-2 mt-4 border-top">Already have an account? <a href="#">Sign In</a></span>
-                                    </div>
-                                </div>
-                            </form>
+                            </div>
+                            <div v-if="isProvider">
+                                <SignUpForm user="Provider Name"/>
+                            </div>
+                            <div v-if="isOrganisation">
+                                <SignUpForm user="Organisation Name"/>
+                            </div>
+                            <div v-if="isVolunteer">
+                               <SignUpForm user="Volunteer Name"/>
+                            </div>
                             <p class="form-message"></p>
                         </div>
                     </div>
@@ -70,15 +40,56 @@
                 </svg>
             </div>
         </section>
-        <!-- ***** Welcome Area End ***** -->
+        <!-- ***** Welcome Area End ***** -->   
 </template>
 
 <script>
+
+import SignUpForm from '../components/SignUp/SignUpForm.vue'
+
 export default {
-    name:"Signup"
+    components:{
+        SignUpForm
+    },
+    data(){
+        return{
+            isProvider:true,
+            isOrganisation:false,
+            isVolunteer:false,
+            isNotActive : '#73c4ba !important',
+            isActive : 'var(--primary-color-2) !important'
+        }
+    },
+    methods: {
+        showProviderForm(){
+            this.isProvider = true
+            this.isOrganisation = false
+            this.isVolunteer = false
+        },
+        showOrganisationForm(){
+            this.isOrganisation = true
+            this.isProvider = false
+            this.isVolunteer = false
+        },
+        showVolunteerForm(){
+            this.isVolunteer = true
+            this.isOrganisation = false
+            this.isProvider = false
+        }
+  },
 }
 </script>
 
-<style>
-
+<style scoped>
+section {
+    height:130vh;
+}
+.usersBtns{
+    width:100%;
+    display:flex;
+    justify-content: space-around;  
+}
+.usersBtns button{
+   
+}
 </style>
