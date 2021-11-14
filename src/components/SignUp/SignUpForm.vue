@@ -29,7 +29,7 @@
                             <div class="form-group">
                                         <div class="input-group">
                                             <div class="input-group-prepend">
-                                                <span class="input-group-text"><i class="fas fa-envelope-open"></i></span>
+                                                <span class="input-group-text"><i class="fas fa-image"></i></span>
                                             </div>
                                             <input type="file" class="form-control" name="logo" placeholder="Logo" required="required">
                                         </div>
@@ -38,7 +38,7 @@
                             <div class="form-group">
                                         <div class="input-group">
                                             <div class="input-group-prepend">
-                                                <span class="input-group-text"><i class="fas fa-unlock-alt"></i></span>
+                                                <span class="input-group-text"><i class="fas fa-phone"></i></span>
                                             </div>
                                             <input type="tel" class="form-control" name="tel" placeholder="Phone Number" required="required">
                                         </div>
@@ -51,7 +51,7 @@
                             <div class="form-group">
                                         <div class="input-group">
                                             <div class="input-group-prepend">
-                                                <span class="input-group-text"><i class="fas fa-unlock-alt"></i></span>
+                                                <span class="input-group-text"><i class="far fa-file-alt"></i></span>
                                             </div>
                                             <textarea class="form-control" id="Description" placeholder="Description"></textarea>
                                         </div>
@@ -62,7 +62,7 @@
                             <div class="form-group">
                                         <div class="input-group">
                                             <div class="input-group-prepend">
-                                                <span class="input-group-text"><i class="fas fa-unlock-alt"></i></span>
+                                                <span class="input-group-text"><i class="fas fa-birthday-cake"></i></span>
                                             </div>
                                               <input type="date" id="birthday"  class="form-control" placeholder="Birthday" name="birthday" required>
                                         </div>
