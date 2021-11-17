@@ -4,11 +4,13 @@
             <div class="container">
                 <div class="row align-items-center justify-content-center">
                     <!-- Welcome Intro Start -->
-                    <div class="col-12 col-md-7 col-lg-8">
+                    <div class="col-12 col-md-10 col-lg-10">
                         <div class="welcome-intro text-center">
-                            <h1 class="text-white" data-aos="fade-up" data-aos-delay="500" data-aos-duration="1000">{{homeJson.title}}</h1>
+                            <h2 class="text-white" data-aos="fade-up" data-aos-delay="500" data-aos-duration="1000">{{homeJson.title}}</h2>
                             <p class="text-white my-4" data-aos="fade-up" data-aos-delay="800" data-aos-duration="1000">{{homeJson.caption}}.</p>
-                             <a href="#" class="btn sApp-btn text-uppercase">{{homeJson.btnText}}</a>
+                            <router-link to="/Signup" class="btn sApp-btn text-uppercase" data-aos-delay="800" data-aos-duration="1000">
+                                {{homeJson.btnText}}
+                            </router-link>
                             <div class="welcome-bottom" data-aos="fade-up" data-aos-delay="1000" data-aos-duration="1000">
                                 <span class="d-inline-block text-white fw-3 font-italic mt-3">Accessible to everyone worldwide</span>
                             </div>

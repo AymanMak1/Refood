@@ -7,8 +7,8 @@
                         <!-- Section Heading -->
                         <div class="section-heading text-center">
                             <h2 class="text-capitalize">What our customers are saying</h2>
-                            <p class="d-none d-sm-block mt-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.</p>
-                            <p class="d-block d-sm-none mt-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.</p>
+                            <p class="d-none d-sm-block mt-4">The reFood project has received many positive comments from our customers, and we appreciate the encouragement and support from every user. We also welcome you to submit your feedback at the bottom of the page to help our project move forward with better development.</p>
+                            <p class="d-block d-sm-none mt-4">The reFood project has received many positive comments from our customers, and we appreciate the encouragement and support from every user.</p>
                         </div>
                     </div>
                 </div>

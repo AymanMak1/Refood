@@ -8,8 +8,8 @@
                         <!-- Section Heading -->
                         <div class="section-heading text-center">
                             <h2 class="text-capitalize">Stay Tuned</h2>
-                            <p class="d-none d-sm-block mt-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.</p>
-                            <p class="d-block d-sm-none mt-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.</p>
+                            <p class="d-none d-sm-block mt-4">We look forward to your valuable comments, and also feedback on the technical aspects of our website. You can contact us by any means such as phone, email, message, etc. Our staff will also reply to you as soon as possible on your needs, we appreciate every customer's support and understanding!</p>
+                            <p class="d-block d-sm-none mt-4">We look forward to your valuable comments, and also feedback on the technical aspects of our website. You can contact us by any means such as phone, email, message, etc.</p>
                         </div>
                     </div>
                 </div>

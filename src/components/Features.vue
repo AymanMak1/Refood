@@ -6,8 +6,8 @@
                         <!-- Section Heading -->
                         <div class="section-heading text-center">
                             <h2>Why Business Owners & Customers Love Refood</h2>
-                            <p class="d-none d-sm-block mt-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.</p>
-                            <p class="d-block d-sm-none mt-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.</p>
+                            <p class="d-none d-sm-block mt-4">Since its launch, the reFood project has received a lot of attention and support from the commerce market and the public welfare sector, and the positive and supportive responses have been received. We will maintain our initial purpose, to provide a better service for the social public welfare and environmental protection.</p>
+                            <p class="d-block d-sm-none mt-4">Refood will maintain its initial purpose, to provide a better service for the social public welfare and environmental protection.</p>
                         </div>
                     </div>
                 </div>
@@ -24,8 +24,8 @@
                                     </div>
                                     <!-- Icon Text -->
                                     <div class="icon-text media-body align-self-center align-self-md-start">
-                                        <h3 class="mb-2">Fully functional</h3>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos.</p>
+                                        <h3 class="mb-2">Linking the bridge</h3>
+                                        <p> it links food recycling to the supply for regions with food shortages so closely.</p>
                                     </div>
                                 </div>
                             </li>
@@ -38,8 +38,8 @@
                                     </div>
                                     <!-- Icon Text -->
                                     <div class="icon-text media-body align-self-center align-self-md-start">
-                                        <h3 class="mb-2">Trust Worthy</h3>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos.</p>
+                                        <h3 class="mb-2">Food Safety</h3>
+                                        <p>each recycled food item is checked by volunteers under a rigorous selection criteria which is provided by reFood.</p>
                                     </div>
                                 </div>
                             </li>
@@ -52,8 +52,8 @@
                                     </div>
                                     <!-- Icon Text -->
                                     <div class="icon-text media-body align-self-center align-self-md-start">
-                                        <h3 class="mb-2">Secure Data</h3>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos.</p>
+                                        <h3 class="mb-2">Simple Operation</h3>
+                                        <p>it will only take 2 minutes to register, the easy-to-use interface allows the first-time user to master the operations quickly.</p>
                                     </div>
                                 </div>
                             </li>
@@ -77,8 +77,8 @@
                                     </div>
                                     <!-- Icon Text -->
                                     <div class="icon-text media-body align-self-center align-self-md-start">
-                                        <h3 class="mb-2">Easy to Customize</h3>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos.</p>
+                                        <h3 class="mb-2">High flexibility</h3>
+                                        <p>no need to wait, volunteers can accept orders from restaurants, grocery stores and NGOs at any time as their schedules allow.</p>
                                     </div>
                                 </div>
                             </li>
@@ -91,8 +91,8 @@
                                     </div>
                                     <!-- Icon Text -->
                                     <div class="icon-text media-body align-self-center align-self-md-start">
-                                        <h3 class="mb-2">Responsive Design</h3>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos.</p>
+                                        <h3 class="mb-2">Reliable certification</h3>
+                                        <p>reFood cooperates with NGOs and restaurants in order to ensure the reliability of the source and destination of foods.</p>
                                     </div>
                                 </div>
                             </li>
@@ -105,8 +105,8 @@
                                     </div>
                                     <!-- Icon Text -->
                                     <div class="icon-text media-body align-self-center align-self-md-start">
-                                        <h3 class="mb-2">Help Documentation</h3>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos.</p>
+                                        <h3 class="mb-2">Public Benefit Goal</h3>
+                                        <p>reFood is not a common profit-making project, its real aim is to reduce food waste and provide help to people in need.</p>
                                     </div>
                                 </div>
                             </li>

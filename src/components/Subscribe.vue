@@ -7,7 +7,7 @@
                     <div class="col-12 col-md-10 col-lg-8">
                         <div class="subscribe-content text-center">
                             <h2>Subscribe to get updates</h2>
-                            <p class="my-4">By subscribing you will get newsleter, promotions adipisicing elit. Architecto beatae, asperiores tempore repudiandae saepe aspernatur unde voluptate sapiente quia ex.</p>
+                            <p class="my-4">Subscribe to reFood, never miss any events you're interested in, we'll keep you up to date with the latest news, and you'll have the opportunity to experience the latest reFood features.</p>
                             <!-- Subscribe Form -->
                             <form class="subscribe-form">
                                 <div class="form-group">

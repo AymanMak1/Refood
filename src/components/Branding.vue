@@ -7,8 +7,8 @@
                         <!-- Section Heading -->
                         <div class="section-heading text-center">
                             <h2>Where have we been mentioned</h2>
-                            <p class="d-none d-sm-block mt-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.</p>
-                            <p class="d-block d-sm-none mt-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.</p>
+                            <p class="d-none d-sm-block mt-4">ReFood is still growing and developing, but has already received a lot of attention from the public welfare sectors, the media and so on, where you can find more information and reports about us at:</p>
+                            <p class="d-block d-sm-none mt-4"></p>
                         </div>
                     </div>
                 </div>

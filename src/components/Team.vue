@@ -7,8 +7,8 @@
                         <!-- Section Heading -->
                         <div class="section-heading text-center">
                             <h2 class="text-capitalize">Our Team Experts</h2>
-                            <p class="d-none d-sm-block mt-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.</p>
-                            <p class="d-block d-sm-none mt-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.</p>
+                            <p class="d-none d-sm-block mt-4">We are a group of young people with public benefit ideals, a small family-like team, we are here because we want to make the excellent idea of reFood real, and of course you are welcome to join the reFood family.</p>
+                            <p class="d-block d-sm-none mt-4">We are a group of young people with public benefit ideals, a small family-like team, we are here because we want to make the excellent idea of reFood real, and of course you are welcome to join the reFood family.</p>
                         </div>
                     </div>
                 </div>

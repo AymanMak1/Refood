@@ -7,8 +7,8 @@
                         <!-- Section Heading -->
                         <div class="section-heading text-center">
                             <h2>Refood Different Partners</h2>
-                            <p class="d-none d-sm-block mt-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.</p>
-                            <p class="d-block d-sm-none mt-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.</p>
+                            <p class="d-none d-sm-block mt-4">The whole food recovery system consists of three main segments: the restaurants provide the food sources, the volunteers do the inspection and delivery, and the NGO will be the recipient of the food.</p>
+                            <p class="d-block d-sm-none mt-4">The whole food recovery system consists of three main segments: the restaurants provide the food sources, the volunteers do the inspection and delivery, and the NGO will be the recipient of the food.</p>
                         </div>
                     </div>
                 </div>
@@ -23,7 +23,7 @@
                             <!-- Icon Text -->
                             <div class="icon-text">
                                 <h3 class="mb-2">Restaurents</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos.</p>
+                                <p>Many restaurants and grocery stores which have excessed unconsumed foods will find their sustainable and labor saving solution by releasing the remaining resource information on reFood platform which will enhance their brand image and get public recognition.</p>
                             </div>
                         </div>
                     </div>
@@ -37,7 +37,7 @@
                             <!-- Icon Text -->
                             <div class="icon-text">
                                 <h3 class="mb-2">NGOs</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos.</p>
+                                <p>NGOs that work with the homeless, refugees and hunger prevailed areas will find cheap resources for catering which will help them contribute in the achievement of the sustainable development goals while committing to their own goals and visions.</p>
                             </div>
                         </div>
                     </div>
@@ -51,7 +51,7 @@
                             <!-- Icon Text -->
                             <div class="icon-text">
                                 <h3 class="mb-2">Volunteers</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos.</p>
+                                <p>People who would love to support the cause and give a hand on reducing food waste, they can sign up on the reFood platform and find the nearest food recycling orders from the resource supplier, restaurants and groceries, and also deliver to NGOs.</p>
                             </div>
                         </div>
                     </div>

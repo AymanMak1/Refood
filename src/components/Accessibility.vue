@@ -7,8 +7,8 @@
                         <!-- Download Text -->
                         <div class="download-text text-center">
                             <h2 class="text-white">Refood is accessible for everyone all over the world</h2>
-                            <p class="text-white my-3 d-none d-sm-block">sApp is available for all devices, consectetur adipisicing elit. Itaque at harum quam explicabo. Aliquam optio, delectus, dolorem quod neque eos totam. Delectus quae animi tenetur voluptates doloribus commodi dicta modi aliquid deserunt, quis maiores nesciunt autem, aperiam natus.</p>
-                            <p class="text-white my-3 d-block d-sm-none">sApp is available for all devices, consectetur adipisicing elit. Vel neque, cumque. Temporibus eligendi veniam, necessitatibus aut id labore nisi quisquam.</p>
+                            <p class="text-white my-3 d-none d-sm-block">Environmental protection and sustainable development is a cause for all humanity, reFood is striving to spread this food recycling chain around the world. Wherever you are, in any role, we look forward to your joining. One little action, one short recommendation will make a difference to hungry people and our planet.</p>
+                            <p class="text-white my-3 d-block d-sm-none">Environmental protection and sustainable development is a cause for all humanity, reFood is striving to spread this food recycling chain around the world. Wherever you are, in any role, we look forward to your joining. One little action, one short recommendation will make a difference to hungry people and our planet.</p>
                             <!-- Store Buttons -->
                             <!--div class="button-group store-buttons d-flex justify-content-center">
                                 <a href="#">
