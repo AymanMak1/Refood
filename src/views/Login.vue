@@ -7,7 +7,7 @@
                     <div class="col-12 col-lg-7">
                         <div class="welcome-intro">
                             <h1 class="text-white">Welcome back!</h1>
-                            <p class="text-white my-4">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum.</p>
+                            <p class="text-white my-4">The public benefit project never accomplishes at one stroke, sign into the reFood and contribute your small step today, oneday we will together witness a qualitative leap of no waste and no hunger targets.</p>
                         </div>
                     </div>
                     <div class="col-12 col-md-8 col-lg-5">

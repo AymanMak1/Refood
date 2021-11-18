@@ -39,7 +39,7 @@
                                             <div id="collapseOne" class="collapse show" data-bs-parent="#apolo-accordion">
                                                 <!-- Card Body -->
                                                 <div class="card-body">
-                                                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa.
+                                                    Please click on the Accounts button on the menu bar and go to the Sign Up page. Please choose your identity as one of the provider,organisation or volunteer, and fill the necessary personal profiles to let reFood and your partners get to know you better.
                                                 </div>
                                             </div>
                                         </div>
@@ -49,14 +49,14 @@
                                             <div class="card-header bg-white">
                                                 <h2 class="mb-0">
                                                     <button class="btn collapsed p-2" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo">
-                                                        Can I get support from the Author?
+                                                       How to support our projects ?
                                                     </button>
                                                 </h2>
                                             </div>
                                             <div id="collapseTwo" class="collapse" data-bs-parent="#apolo-accordion">
                                                 <!-- Card Body -->
                                                 <div class="card-body">
-                                                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa.
+                                                   We are grateful to receive financial support from individuals and groups, and your donation will be used for the maintenance and management of reFood, and also for charity events. If you are interested, please submit your information via the contact page and our staff will be in touch with you promptly. Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa.
                                                 </div>
                                             </div>
                                         </div>
@@ -73,7 +73,7 @@
                                             <div id="collapseThree" class="collapse" data-bs-parent="#apolo-accordion">
                                                 <!-- Card Body -->
                                                 <div class="card-body">
-                                                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa.
+                                                   If you encounter any technical problems with the website, please contact us via our email address on the contact page. We will appreciate your feedback according to the website and will get back to you and deal with it as soon as possible.
                                                 </div>
                                             </div>
                                         </div>
@@ -92,7 +92,7 @@
                                             <div id="collapseFour" class="collapse" data-bs-parent="#apolo-accordion">
                                                 <!-- Card Body -->
                                                 <div class="card-body">
-                                                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa.
+                                                    The events on reFood are organised by organizing committees and are mainly about environmental protection and sustainable development. ReFood will be responsible for publishing and promoting the events, so if you want to follow and participate in more events, join reFood and become a member of us!
                                                 </div>
                                             </div>
                                         </div>
@@ -109,7 +109,7 @@
                                             <div id="collapseFive" class="collapse show" data-bs-parent="#apolo-accordion">
                                                 <!-- Card Body -->
                                                 <div class="card-body">
-                                                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa.
+                                                    You can submit your email address and subscribe to our website to receive the latest new and updated events.
                                                 </div>
                                             </div>
                                         </div>
@@ -122,7 +122,7 @@
                                             <div class="card-header bg-white">
                                                 <h2 class="mb-0 accordion-header" id="headingSix">
                                                     <button class="btn p-2" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="true" aria-controls="collapseSix">
-                                                        Is this template support rtl?
+                                                        Is this webapp support rtl?
                                                     </button>
                                                 </h2>
                                             </div>
