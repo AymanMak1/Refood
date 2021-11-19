@@ -13,7 +13,6 @@ import 'aos/dist/aos.css'
 import AnimateCSS from 'animate.css';
 
 
-
 const app = createApp(App);
 app.use(router)
 app.use(AOS.init())

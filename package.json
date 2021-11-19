@@ -7,6 +7,7 @@
     "serve": "vite preview"
   },
   "dependencies": {
+    "@vue-stripe/vue-stripe": "^4.2.8",
     "animate.css": "^4.1.1",
     "aos": "^2.3.4",
     "bootstrap": "^5.1.3",
@@ -14,6 +15,7 @@
     "owl.carousel": "^2.3.4",
     "vue": "^3.2.20",
     "vue-router": "^4.0.12",
+    "vue-stripe-checkout": "^3.5.15",
     "vue-sweetalert2": "^5.0.2",
     "waypoints": "^4.0.1"
   },

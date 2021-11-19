@@ -3,6 +3,7 @@ import Features from '../components/Features.vue'
 import NotFound404 from '../views/NotFound404.vue'
 import Login from '../views/Login.vue'
 import Signup from '../views/Signup.vue'
+import Checkout from '../views/Checkout.vue'
 
 import {
     createWebHistory,
@@ -31,6 +32,11 @@ const routes = [
             path : '/Signup',
             component: Signup, 
             name : 'signup'
+        },
+        {
+            path : '/Checkout',
+            component: Checkout, 
+            name : 'checkout'
         },
         {
             path: "/:catchAll(.*)",
