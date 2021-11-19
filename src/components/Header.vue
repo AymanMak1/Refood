@@ -70,6 +70,10 @@
                             <li class="nav-item">
                                 <a class="nav-link scroll" href="#contact">Contact</a>
                             </li>
+
+                            <li class="nav-item DonateNavItem">
+                               <router-link to="/Checkout" class="nav-link" href="javascript:;">Donate</router-link>
+                            </li>
                             
                         </ul>
                     </nav>
@@ -117,6 +121,8 @@ export default{
 
 
 <style scoped>
-
+.DonateNavItem{
+    font-weight: 600;
+}
 </style>>
 
