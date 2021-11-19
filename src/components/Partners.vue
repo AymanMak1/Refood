@@ -41,7 +41,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-12 col-md-6 col-lg-4">
+                    <div class="col-12 col-md-12 col-lg-4">
                         <!-- Icon Box -->
                         <div class="icon-box text-center p-4 wow fadeInLeft" data-aos-duration="2s" data-wow-delay="0.8s">
                             <!-- Featured Icon -->
