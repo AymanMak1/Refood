@@ -2,7 +2,7 @@
         <!-- Contact Form -->
          <form id="contact-form">
                 <div class="row">
-                    <div class="col-6">
+                    <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
                             <div class="form-group">
                                 <div class="input-group">
                                     <div class="input-group-prepend">
@@ -25,7 +25,7 @@
                     </div>
 
 
-                     <div class="col-6">
+                     <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
                             <div class="form-group">
                                         <div class="input-group">
                                             <div class="input-group-prepend">
@@ -69,7 +69,7 @@
                             </div>
                         </div>
 
-                        <div class="col-6">
+                        <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
                                 <div class="form-group">
                                         <div class="input-group">
                                             <div class="input-group-prepend">
@@ -79,7 +79,7 @@
                                         </div>
                             </div>
                         </div>
-                         <div class="col-6">
+                         <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
                                 <div class="form-group">
                                             <div class="input-group">
                                                 <div class="input-group-prepend">

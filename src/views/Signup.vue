@@ -3,9 +3,9 @@
         <section id="SignUp" class="section welcome-area bg-overlay d-flex align-items-center">
             <div class="container">
                 <div class="row align-items-center justify-content-center">
-                    <div class="col-12 col-md-8 col-lg-8 mt-5">
+                    <div class="col-12 col-md-8 col-lg-8">
                         <!-- Contact Box -->
-                        <div class="contact-box bg-white text-center rounded p-4 p-sm-5 mt-5 mt-lg-0 shadow-lg">
+                        <div class="contact-box bg-white text-center rounded p-4 p-sm-5 shadow-lg">
                             <div class="contact-top">
                                     <h3 class="contact-title">Sign Up as</h3> <br>
                                     <div class="usersBtns">
@@ -82,14 +82,37 @@ export default {
 
 <style scoped>
 section {
-    height:130vh;
+    height:140vh;
 }
 .usersBtns{
-    width:100%;
-    display:flex;
-    justify-content: space-around;  
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap:20px;
 }
-.usersBtns button{
-   
+
+@media (max-width: 1199.98px) {
+    .section{
+        height:100vh;
+    }
+ }
+
+@media (max-width: 991.98px) { 
+    .usersBtns{
+        grid-template-columns: 1fr;
+    }
+    .contact-box{
+        margin-top:400px;
+    }
+
 }
+
+@media (max-width: 576px) {
+    .contact-box{
+        margin-top:600px;
+    }
+
+}
+
+
+
 </style>
