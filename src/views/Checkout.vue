@@ -17,9 +17,7 @@
   <div class="container text-center" v-if="!paidFor">
     <div class="Donation">
       <h1>Donate </h1>
-
       <p>It does not matter how minor or major your support is <br /> it will be highly appreciated from Refood Team.</p>
-
       <img width="400" src="" />
     </div>
 
@@ -92,9 +90,7 @@ export default {
 *{
   overflow:hidden;
 }
-header.navbar{
-  background-color: #42b983;
-}
+
 img{
   margin :2rem 0rem;
 }
