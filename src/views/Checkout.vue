@@ -20,7 +20,7 @@
 
       <p>It does not matter how minor or major your support is <br /> it will be highly appreciated from Refood Team.</p>
 
-      <img width="400" src="../assets/img/donation/Money tree _Monochromatic.png" />
+      <img width="400" src="" />
     </div>
 
     <div ref="paypal"></div>
